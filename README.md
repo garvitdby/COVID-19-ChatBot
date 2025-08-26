@@ -29,6 +29,10 @@ COVID-19 Chatbot - Root folder
 - version 1 - c++ source file
 - version 1.exe - Compiled executable
 
+## Application ScreenShots
+**Main Menu Interface**
+https://github.com/garvitdby/COVID-19-ChatBot/blob/main/Add%20Question.png
+
 ## Technology Stack
 - **Language**: C  
 - **Libraries**: `stdio.h`, `conio.h`, `stdlib.h`, `string.h`, `windows.h`  
