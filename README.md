@@ -33,6 +33,12 @@ COVID-19 Chatbot - Root folder
 **Main Menu Interface**
 https://github.com/garvitdby/COVID-19-ChatBot/blob/main/Add%20Question.png
 
+**QNA**
+https://github.com/garvitdby/COVID-19-ChatBot/blob/main/QNA.png
+
+**Adding Question**
+https://github.com/garvitdby/COVID-19-ChatBot/blob/main/Add%20Question.png
+
 ## Technology Stack
 - **Language**: C  
 - **Libraries**: `stdio.h`, `conio.h`, `stdlib.h`, `string.h`, `windows.h`  
